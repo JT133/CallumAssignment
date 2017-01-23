@@ -69,7 +69,7 @@ h1 {
 
 .menu {
   background: moccasin;
-  width: 66.5%;
+  width: 65.5%;
   padding: 5px;
   margin-top: 10px;
   box-sizing: border-box;
@@ -84,7 +84,7 @@ h1 {
 .item {
 	border-left: 6px solid red;
 	background: lightgrey;
-	width: 66.5%;
+	width: 65.5%;
 	padding: 5px;
 	margin-top: 10px;
 	box-sizing: border-box;
