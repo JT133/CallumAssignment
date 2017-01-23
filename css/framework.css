@@ -80,8 +80,7 @@ body {
 .navigation {
   list-style: none;
   margin: 0; 
-  
-  background: deepskyblue;
+  background: sandybrown;
   
   display: -webkit-box;
   display: -moz-box;
@@ -101,5 +100,5 @@ body {
 }
 
 .navigation a:hover {
-  background: darken(deepskyblue, 2%);
+  background: darken(sandybrown, 5%);
 }
