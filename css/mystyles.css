@@ -75,7 +75,7 @@ h1 {
   box-sizing: border-box;
   
   line-height: 150px;
-  color: white;
+  color: snow;
   font-weight: bold;
   font-size: 1.5em;
   text-align: center;
@@ -88,7 +88,7 @@ h1 {
 	padding: 5px;
 	margin-top: 10px;
 	box-sizing: border-box;
-	color: tomato;
+	color: snow;
 }
 
 .footer {
