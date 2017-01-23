@@ -81,6 +81,11 @@ h1 {
   text-align: center;
 }
 
+.article {
+	background: paletorquise;
+	width: 65%;
+}
+
 .footer {
   color: white;
   text-align: center;
