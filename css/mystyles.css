@@ -1,4 +1,4 @@
-body{background-color: white}
+body{color: white}
 
 @import "compass/css3";
 @import url(http://fonts.googleapis.com/css?family=Cinzel+Decorative:400,900);
@@ -7,10 +7,12 @@ h1 {
 	font-family: 'Cinzel Decorative', cursive;
 	font-size: 3em;
 	text-align: center;
+	color: white;
 }
 
 .subtitle {
   margin: 0 0 2em 0;
+  color: white;
 }
 .fancy {
   line-height: 0.5;
