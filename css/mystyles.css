@@ -84,6 +84,10 @@ h1 {
 .item {
 	background: paletorquise;
 	width: 65%;
+	padding: 5px;
+	margin-top: 10px;
+	box-sizing: border-box;
+	line-height: 150px;
 }
 
 .footer {
